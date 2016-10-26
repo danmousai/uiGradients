@@ -752,4 +752,8 @@
         "name": "Ibiza Sunset",
         "colors": ["#ee0979","#ff6a00"]
     }
+        {
+        "name": "BePlaya",
+        "colors": ["#7e3f98","#343434"]
+    }
 ]
